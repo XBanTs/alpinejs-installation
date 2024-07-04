@@ -14,7 +14,7 @@
 
 # Include Through CDN:
 **This is by far the simplest way to get started with Alpine. Include the following script tag in the head of your HTML page.**
-## (<script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>)
+## <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
 
 
 > [!IMPORTANT]
@@ -24,7 +24,7 @@
 > Notice the @3.x.x in the provided CDN link. This will pull the latest version of Alpine version 3. 
 
 > For stability in production, it's recommended that you hardcode the latest version in the CDN link.
-> ## (<script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.14.1/dist/cdn.min.js"></script>)
+> ## <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.14.1/dist/cdn.min.js"></script>
 
 
 > [!NOTE]
@@ -99,7 +99,7 @@
 
 ### Quite complicated right? but congrats, you just created your first bundle.
 ### Create an HTML file, and load your script using:
-## (<script defer src="/dist/app.js"></script>)
+## <script defer src="/dist/app.js"></script>
 
 
 **Voila, start building something using Alpine.js**
@@ -110,5 +110,4 @@
 **I'm avaialable on social platforms like X(Twitter) through the user: @XBanTs_**
 **Let's connect and innovate, cheers!** 
 **By Ayo "XBanTs" Oyewo.**
-
 
